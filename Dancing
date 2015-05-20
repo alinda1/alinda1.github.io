@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+	<head>
+ 		<title>Alinda's Website</title>
+	</head>
+	<body>
+  <HEADER>
+	<UL>
+		<LI><a href="Home.html">Home</a></LI>
+		<LI><a href="about_me.html">About Me</a></LI>
+		<LI><a href="mommy_balancing.html">Mommy Balancing</a></LI>
+		<LI><a href="dancing.html">Dancing</a></LI>
+		<LI><a href="hobbies.html">Hobbies</a></LI>
+	</UL>
+  </HEADER> 
+<section>
+	<p> My dancing style typically surrounds anything a beat is dropped! lol. I love to have fun with dance styles.
+	I love dancehall and reggae. </p>
+	<p><h1>I am a mother trying to teach my daugther the beautiful way to except her own style of dance.</h1> </p>
+
+<p>I was an praise dance teacher </p>
+<p>I also done hiphop in highschool</p>
+<img src="images/hip.jpg">
+
+</section>
+<Footer>The Beautiful World Of KittyLand</footer>
+</body>
